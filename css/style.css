@@ -1,0 +1,21 @@
+h1{
+    color:darkred;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 35px;
+    font-style: oblique;
+    
+}
+
+h2{
+    color:darkred;
+    text-decoration: underline;
+    font-style: oblique;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.centrado{
+    text-align: center;
+}
+
