@@ -1,6 +1,6 @@
 h1{
-    color:darkred;
-    text-align: center;
+    color: #000000;
+    font-family: arial;
     text-decoration: underline;
     font-size: 35px;
     font-style: oblique;
@@ -8,14 +8,33 @@ h1{
 }
 
 h2{
-    color:darkred;
+    color: #000000;
+    font-family: 'Times New Roman';
     text-decoration: underline;
-    font-style: oblique;
+    font-style: italic;
     text-transform: uppercase;
     font-size: 20px;
+    background-color: #EAEAEA;
 }
 
 .centrado{
     text-align: center;
 }
 
+p {
+    color: #444444;
+    font-family: arial;
+}
+
+ul {
+    color: #444444;
+    font-family: arial;
+}
+
+.carrot {
+    background-color: #FEA500;
+}
+
+.lemon {
+    background-color: #FEF400;
+}
