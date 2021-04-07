@@ -1,0 +1,10 @@
+Subtitulos:
+- Familia tipográfica: Playfair Display Bold (Italica)
+
+Cuerpos:
+- Famila tipográfica: Inter
+
+Colores:
+- Gris: #444
+- Blanco: white
+- Negro: black

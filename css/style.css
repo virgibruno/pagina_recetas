@@ -1,47 +1,43 @@
-h1{
-    color: #000000;
-    font-family: arial;
-    text-decoration: underline;
-    font-size: 35px;
-    font-style: oblique;
-    position: sticky;
-    top: 10px;
-    text-align: center;  
+/* Recursos */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Playfair+Display:ital,wght@1,600&display=swap');
+
+@import url("https://use.fontawesome.com/releases/v5.15.3/css/all.css");
+
+*{
+    box-sizing: border-box;
 }
 
-h2{
-    color: #000000;
-    font-family: 'Times New Roman';
-    text-decoration: underline;
-    font-style: italic;
-    text-transform: uppercase;
-    font-size: 20px;
-    background-color: #EAEAEA;
+/* Modificaciones generales */
+
+h2,h3{
+    font-family: 'Playfair Display';
 }
 
-.contenido img{
-    display: block;
-    margin: auto;
+li{
+    font-family: Inter;
+    color:#444
 }
 
-.centrado{
-    text-align: center;
+.titulo {
+    color: white;
+    font-family: Inter;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 200px;
+    height: 340px;
 }
 
-p {
-    color: #444444;
-    font-family: arial;
-}
+/* Imágenes de fondo */
 
-ul {
-    color: #444444;
-    font-family: arial;
-}
-
-.carrot {
-    background-color: #FEA500;
+.principal {
+    background-image: url(../img/postres.jpg);
 }
 
 .lemon {
-    background-color: #FEF400;
+    background-image: url(../img/lemon-background.png);
+}
+
+.carrot {
+    background-image: url(../img/imagen-carrot.png);
 }
